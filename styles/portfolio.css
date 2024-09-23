@@ -104,3 +104,45 @@ description {
     border-radius: 10px;
     background: #FFF8F3;
 }
+
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.main-info {
+    display: flex;
+    justify-content: space-around;
+}
+
+.nam {
+    color: #474747;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: center;
+}
+
+.porichoy {
+    color: #474747;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: center;
+}
+
+.jonmo {
+    color: #474747;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: center;
+}
+
+.jaega {
+    color: #474747;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: center;
+}
