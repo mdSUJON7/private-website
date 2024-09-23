@@ -29,6 +29,9 @@ nav a {
     justify-content: space-between;
     background-color: antiquewhite;
     align-items: center;
+    background-image: url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
 
 
 }
@@ -42,14 +45,20 @@ nav a {
     font-family: %20%22Open%20Sans%22;
     font-size: 45px;
     font-weight: 600px;
+    margin bottom: 0;
 
 }
 
 .myself {
     font-size: 85px;
     font-weight: 700;
+    margin-top: 5px;
+
 }
 
+.banner-content {
+    max-width: 700px;
+}
 
 .btn-primary {
     border-radius: 5px;
@@ -68,4 +77,5 @@ nav a {
 .banner {
     display: flex;
     text-align: center;
+    justify-content: space-between;
 }
