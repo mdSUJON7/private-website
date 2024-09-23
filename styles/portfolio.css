@@ -1,0 +1,71 @@
+body {
+    // <uniquifier>: Use a unique and descriptive class name
+
+    .roboto-slab-<uniquifier>font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+nav {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+
+}
+
+nav li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #474747;
+}
+
+.header {
+    justify-content: space-between;
+    background-color: antiquewhite;
+    align-items: center;
+
+
+}
+
+.primary {
+    color: chartreuse;
+}
+
+.start {
+    color: #474747;
+    font-family: %20%22Open%20Sans%22;
+    font-size: 45px;
+    font-weight: 600px;
+
+}
+
+.myself {
+    font-size: 85px;
+    font-weight: 700;
+}
+
+
+.btn-primary {
+    border-radius: 5px;
+    background: chartreuse;
+    border: 0px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+
+.rong {
+    display: flex;
+}
+
+.banner {
+    display: flex;
+    text-align: center;
+}
